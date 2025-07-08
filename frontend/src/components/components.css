@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+.logs{
+   @apply bg-white px-2 py-2 rounded-lg placeholder:text-zinc-400 text-black outline-orange-400 focus-visible:outline-2
+
+}
+
